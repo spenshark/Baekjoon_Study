@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc8d40dc-440e-429d-b6e0-909a48453f7d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/silver/v/Q12871.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/silver/v/test" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -43,7 +48,7 @@
     "Application.Q12871.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "a",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -68,6 +73,7 @@
       <workItem from="1712037458386" duration="9000" />
       <workItem from="1712652035453" duration="20000" />
       <workItem from="1712652168269" duration="445000" />
+      <workItem from="1721004304175" duration="63000" />
     </task>
     <servers />
   </component>
